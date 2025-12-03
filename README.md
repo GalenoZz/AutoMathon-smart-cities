@@ -1,16 +1,16 @@
-#🚦 Projeto de Modernização de Autômato Urbano
+ -Projeto de Modernização de Autômato Urbano
 
 Controle de Tráfego Adaptativo para Smart Cities
 
 Do Ciclo Fixo ao Sistema Ciber-Físico (CPS)
 
-📌 Integrantes do Grupo
+ -Integrantes do Grupo
 
 Arthur Vilas Bôa Galeno - RGM: 34081119
 
 Davi Passos De Queiroz Cavalcanti - RGM: 33922110
 
-📚 Descrição do Projeto
+ -Descrição do Projeto
 
 Este repositório apresenta a solução desenvolvida para o desafio AutoMAthon, cujo objetivo é propor a modernização de um autômato urbano alinhado às necessidades e tecnologias de Cidades Inteligentes (Smart Cities).
 
