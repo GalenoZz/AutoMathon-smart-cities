@@ -4,7 +4,7 @@ Controle de Tráfego Adaptativo para Smart Cities
 
 Do Ciclo Fixo ao Sistema Ciber-Físico (CPS)
 
-📌 Integrantes do Grupo
+👨‍🔧 Integrantes do Grupo
 
 Arthur Vilas Bôa Galeno - RGM: 34081119
 
